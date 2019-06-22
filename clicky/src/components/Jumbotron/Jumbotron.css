@@ -1,7 +1,8 @@
 .header {
-  background-color: #ccc;
+  background-color: lightslategray;
   position: relative;
   width: 100%;
+  height: 80%;
 }
 
 h1 {
